@@ -2,7 +2,7 @@
 In this project i tried to apply my skills in manual testing which include:
 - [x] exploring the app.
 - [x] analyzing it.
-- [] design and implement tests.
+- [x] design and implement tests.
 
 
 ## Test levels:
@@ -11,7 +11,11 @@ In this project i tried to apply my skills in manual testing which include:
 
 ## Types of performed tests
 + Functional testing.
-+ Black-box testing using (EP, BVA, decision table and state transition) techniques.
++ Black-box testing using.
+   - Equivalence Partitioning (EP)
+   - Boundary value analysis (BVA).
+   - decision table.
+   - state transition) techniques.
 + Usability testing.
 
 ## Tools and extensions used:
