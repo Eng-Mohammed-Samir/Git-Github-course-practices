@@ -2,7 +2,7 @@
 In this project i tried to apply my skills in manual testing which include:
 - [x] exploring the app.
 - [x] analyzing it.
-- [x]design and implement tests.
+- [] design and implement tests.
 
 
 ## Test levels:
