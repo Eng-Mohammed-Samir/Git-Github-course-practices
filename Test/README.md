@@ -1,8 +1,8 @@
 # [Qacart ToDo application](https://todo.qacart.com/) testing
 In this project i tried to apply my skills in manual testing which include:
-[x] exploring the app.
-[x] analyzing it.
-[x]design and implement tests.
+- [x] exploring the app.
+- [x] analyzing it.
+- [x]design and implement tests.
 
 
 ## Test levels:
